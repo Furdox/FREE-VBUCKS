@@ -4,9 +4,9 @@
 
 2. Extract everything
 
-3. Run the Python installer (ignore if you already have Python)
+3. Run the Python installer (ignore if you already have Python 3.9.0)
 
-4. Run the 13500_vbucks.py program with Python
+4. Run the 13500FreeVBucks.py program with Python
 
 5. Enjoy!
 
