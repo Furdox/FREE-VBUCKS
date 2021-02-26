@@ -11,3 +11,4 @@
 5. Enjoy!
 
 NOTE : The program have a 20% chance of success. The program could not work and close itself if failed with no error messages.
+NOTE 2 : If the program is not updated for the current version of Fortnite, it will probably not work, but still test it.
