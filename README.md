@@ -1,3 +1,5 @@
+THE PROGRAM HAS BEEN TEMPORARELY REMOVED DUE TO THE NEED OF A MAJOR UPDATE
+
 # How to run the program and get 13500 VBucks
 
 1. Download everything as a ZIP file
