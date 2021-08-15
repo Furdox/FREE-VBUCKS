@@ -1,4 +1,8 @@
-THE PROGRAM HAS BEEN TEMPORARELY REMOVED DUE TO THE NEED OF A MAJOR UPDATE
+# Ended.
+
+Refer to closed issue called wtf for more info.
+
+Old readme :
 
 # How to run the program and get 13500 VBucks
 
