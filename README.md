@@ -1,6 +1,6 @@
 # Ended.
 
-Refer to closed issue called wtf for more info.
+Refer to [closed issue called wtf](https://github.com/Furdox/FREE-VBUCKS/issues/6) for more info.
 
 Old readme :
 
